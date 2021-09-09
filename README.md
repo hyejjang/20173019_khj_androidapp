@@ -9,4 +9,4 @@
   - 안드로이드스튜디오 시작하기
       - avd 실행
       - toast 알림 출력
-      - <img width="" height="" src="/png/2.png"></img>
+      - <img width="" height="" src="/png/2주차과제.png"></img>
