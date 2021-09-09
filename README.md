@@ -5,6 +5,7 @@
 ## 2주차
 
   - github 사용법
+  <img width="" height="" src="./bx.png"></img>
   - 안드로이드스튜디오 시작하기
       - avd 실행
       - toast 알림 출력
