@@ -47,5 +47,5 @@
 - <img width="" height="" src="/png/11주차과제.png"></img>
 ## 12주차
 - <img width="" height="" src="/png/12주차과제.png"></img>
-## 13주차(대면수업 참석)
+## 13주차(대면수업 참석) >> 21.11.25(목)
 - <img width="" height="" src="/png/13주차과제.png"></img>
